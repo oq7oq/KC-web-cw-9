@@ -1,7 +1,7 @@
 // أنشئ المصفوفة تحت هذا الكومنت
 let orders=[]
 
-
+orders.pop()
 
 function addOrder() {
   let name = document.getElementById("name").value;
